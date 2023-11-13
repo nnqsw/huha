@@ -281,8 +281,8 @@ print \
 #|_____\__,_|\__, |\___|_|  |____/ \___/|___/     #
 #            |___/                                #
 ###################################################
-> Tool DDoS Created By LayerDos
-> Tool With Proxy
+ Tool DDoS Created By LayerDos
+ Tool With Proxy
 """
 print '---------------------------------------------------'
 # Site
@@ -323,7 +323,7 @@ for x in xrange(thread):
     os.system("color c")
    
 print \
- ''''
+ 
  ____  ____       ____       _   _   _             _    
 |  _ \|  _ \  ___/ ___|     / \ | |_| |_ __ _  ___| | __
 | | | | | | |/ _ \___ \    / _ \| __| __/ _` |/ __| |/ /
