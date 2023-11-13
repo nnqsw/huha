@@ -283,7 +283,7 @@ print \
 ###################################################
  Tool DDoS Created By LayerDos
  Tool With Proxy
-"""
+
 print '---------------------------------------------------'
 # Site
 url = raw_input("victim: ")
